@@ -1,0 +1,15 @@
+1;Antwort;Ja, ich möchte gerne ein paar Lose kaufen.;2
+2;Antwort;Ja, aber ich habe Bedenken wegen meines Spielverhaltens.;2
+3;Antwort;Du entscheidest dich wieder zu gehen.; ;1
+4;Antwort;Ja,das ist eine gute Idee. Bitte helfen Sie mir, ein wöchentliches Limit festzulegen.;3
+5;Antwort;Nein, danke. Ich denke, ich kann es im Griff behalten.;6
+6;Antwort;Ja, ich denke, das wäre eine vernünftige Maßnahme. Aber ich möchte dennoch ein paar Lose kaufen. Gibt es Möglichkeiten, wie Sie mich dabei unterstützen können?;5
+7;Antwort;Eigentlich wollte ich nur ein paar Informationen, ich gehe lieber ohne Lose.; ;1
+8;Antwort;Du bedankst dich für die Unterstützung und gibst dem Mitarbeiter den gewünschten Betrag für das wöchentliche Limit.;7
+9;Antwort;Eigentlich möchte ich es mir nochmal überlegen. Ich komme später darauf zurück.;;1
+10;Antwort;Du stimmst zu und kaufst die gewünschten Lose ohne Limit.;5
+11;Antwort;Du entscheidest dich, später wiederzukommen, um ein Limit festzulegen.; ;1
+12;Antwort;Ja, das klingt sinnvoll. Bitte helfen Sie mir dabei, ein Limit festzulegen.;7
+13;Antwort;Vielleicht ist es besser, wenn ich heute keine Lose kaufe. Ich werde das zuerst mit meinen Freunden besprechen.; ;1
+14;Antwort;Du bedankst dich und verlässt die Lotterieeinnahmestelle.; ;1
+15;Antwort;Du entscheidest dich dafür, nur eine begrenzte Anzahl von Losen zu kaufen, ohne ein Limit festzulegen.; ;1

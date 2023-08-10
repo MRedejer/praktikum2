@@ -1,0 +1,8 @@
+1;Frage;Herzlich willkommen! Wie kann ich Ihnen helfen? Möchten Sie Lose für die süddeutsche Klassenlotterie kaufen?;1,2,3
+2;Frage;Gut, ich kann Ihnen dabei helfen. Bevor wir starten, möchten Sie vielleicht ein Limit für Ihr Spiel setzen? Es ist wichtig, verantwortungsbewusst zu spielen;4,5
+3;Frage;Ich danke Ihnen für Ihre Offenheit. Es ist gut, dass Sie das ansprechen. Ihre Gesundheit und Ihr Wohlbefinden sind uns wichtig. Vielleicht ist es eine gute Idee, über eine angemessene Spielgrenze nachzudenken.;
+4;Frage;Schade, dass Sie gehen möchten. Falls Sie es sich anders überlegen, sind wir hier, um Ihnen zu helfen. Haben Sie einen schönen Tag!; 
+5;Frage;Natürlich. Wir werden Ihr Spielkonto so einrichten, dass Sie nur bis zu dem von Ihnen gewünschten Betrag und für die von Ihnen festgelegte Zeitspanne Lose kaufen können. Auf diese Weise können Sie sicherstellen, dass Sie verantwortungsbewusst spielen.;7, 12
+6;Frage;Das ist in Ordnung, aber denken Sie daran, dass es immer gut ist, ein Limit zu setzen, um kontrolliert zu spielen. Wenn Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung.;14, 15
+7;Frage;Natürlich. Wir haben verschiedene Optionen, um Ihnen dabei zu helfen, kontrolliert zu spielen. Eine Möglichkeit wäre, eine zeitliche und finanzielle Grenze für Ihr Spielen festzulegen.;
+8;Frage;Verstehen wir. Es ist wichtig, dass Sie sich wohl dabei fühlen. Wenn Sie später Fragen haben oder Unterstützung benötigen, können Sie sich gerne an uns wenden.;
